@@ -1,35 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
-*{
+* {
     margin: 0;
     padding: 0;
     text-decoration: none;
     border: none;
     outline: none;
-    font-family:'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-::-webkit-scrollbar{
+
+::-webkit-scrollbar {
     visibility: hidden;
     width: 0;
 }
-:root{
-    --back:#1f242a;
-    --back-2:#323946;
-    --text:#fff;
-    --main:rgb(63 255 51);
-    /* rgb(63 255 51) 
-    #0ef*/
+
+:root {
+    --back: #fff; 
+    --back-2: #f0f0f0; 
+    --text: #000; 
+    --main: rgb(63, 255, 51);
 }
-html{
+
+html {
     font-size: 62.5%;
     overflow-x: hidden;
 }
-body{
+
+body {
     background-color: var(--back);
     color: var(--text);
 }
+
 .nav{
     top: 0;
     position: fixed;
@@ -242,13 +245,13 @@ section{
     transition: 2s ease;
 }
 .skill-cont .right .corejava::before{
-    width: 80%;
+    width: 70%;
 }
 .skill-cont .right .html::before{
     width: 90%;
 }
 .skill-cont .right .css::before{
-    width: 60%;
+    width: 50%;
 }
 .skill-cont .right .javascript::before{
     width: 70%;
