@@ -172,7 +172,6 @@ section{
     width: 85vw;
 }
 .section02 h2{
-    text-align: center;
     line-height: 1.2;
     color: var(--text);
 }
