@@ -242,19 +242,13 @@ section{
     transition: 2s ease;
 }
 .skill-cont .right .corejava::before{
-    width: 80%;
+    width: 70%;
 }
 .skill-cont .right .html::before{
     width: 90%;
 }
 .skill-cont .right .css::before{
-    width: 60%;
-}
-.skill-cont .right .javascript::before{
-    width: 70%;
-}
-.skill-cont .right .php::before{
-    width: 60%;
+    width: 50%;
 }
 .skill-cont .right .mysql::before{
     width: 50%;
