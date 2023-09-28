@@ -473,7 +473,7 @@ section{
        padding-top: 0;
     }
     .section03 {
-        padding-top: 5rem;
+        padding-top: 150px;
     }
     html{
         overflow-y:visible;
@@ -498,7 +498,7 @@ section{
         transform: translateY(0);
     }
      .project-cont .layer{
-    padding-top:25px;
+    padding-top:125px;
     font-size:2.5rem;
     height:43vw;
      }
