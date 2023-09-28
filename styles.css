@@ -1,38 +1,35 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
-* {
+*{
     margin: 0;
     padding: 0;
     text-decoration: none;
     border: none;
     outline: none;
-    font-family: 'Poppins', sans-serif;
+    font-family:'Poppins',sans-serif;
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
-::-webkit-scrollbar {
+::-webkit-scrollbar{
     visibility: hidden;
     width: 0;
 }
-
-:root {
-    --back: #fff; 
-    --back-2: #f0f0f0; 
-    --text: #000; 
-    --main: #0070f3;
+:root{
+    --back:#1f242a;
+    --back-2:#323946;
+    --text:#fff;
+    --main:#0070f3;
+    /* rgb(63 255 51) 
+    #0ef*/
 }
-
-html {
+html{
     font-size: 62.5%;
     overflow-x: hidden;
 }
-
-body {
+body{
     background-color: var(--back);
     color: var(--text);
 }
-
 .nav{
     top: 0;
     position: fixed;
@@ -201,7 +198,7 @@ section{
     width: calc(50% - 30px);
 }
 .section03 h1{
-    padding-top: 150px;
+    padding-top: 15vh;
     font-size: 4rem;
     justify-content: center;
     align-items: center;
@@ -245,13 +242,13 @@ section{
     transition: 2s ease;
 }
 .skill-cont .right .corejava::before{
-    width: 70%;
+    width: 80%;
 }
 .skill-cont .right .html::before{
     width: 90%;
 }
 .skill-cont .right .css::before{
-    width: 50%;
+    width: 60%;
 }
 .skill-cont .right .javascript::before{
     width: 70%;
@@ -473,7 +470,7 @@ section{
        padding-top: 0;
     }
     .section03 {
-        padding-top: 150px;
+        padding-top: 5rem;
     }
     html{
         overflow-y:visible;
@@ -498,8 +495,8 @@ section{
         transform: translateY(0);
     }
      .project-cont .layer{
-    padding-top:125px;
+    padding-top:25px;
     font-size:2.5rem;
     height:43vw;
      }
-	}
+}
