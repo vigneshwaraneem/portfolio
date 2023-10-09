@@ -213,6 +213,16 @@ section{
     display: none;
 }
 
+#skills {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
 .section03 .skill-cont .right .bars{
     margin-bottom: 15px;
 }
@@ -463,7 +473,7 @@ section{
        padding-top: 0;
     }
     .section03 {
-        padding-top: 5rem;
+        flex-direction: column;
     }
     html{
         overflow-y:visible;
