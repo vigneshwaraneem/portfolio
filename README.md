@@ -33,6 +33,7 @@ The Swing CRUD Application is a Java-based desktop application developed using t
 Feel free to reach out to me via email: vigneshwaraneem@gmail.com
 
 Connect with me on [LinkedIn] - https://www.linkedin.com/in/vigneshwaraneem
+
 Follow me on [X/Twitter] - https://twitter.com/vigneshwaraneem 
 
 Happy coding!
