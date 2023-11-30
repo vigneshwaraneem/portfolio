@@ -11,14 +11,12 @@ Welcome to my GitHub repository! I'm Vigneshwaraneem, and this is where I showca
 List your significant projects with brief descriptions and links.
 
 1. **Project 1:** Basic Calculator (Java Swing - https://github.com/vigneshwaraneem/Calculator)
-• Engineered a calculator application using Java Swing
-• Implemented basic arithmetic operations and a history feature
-• Displayed adeptness in Java programming and crafting interactive GUI applications
+Engineered a calculator application using Java Swing. Implemented basic arithmetic operations and a history feature. Displayed adeptness in Java programming and crafting interactive GUI applications
 
-2. **Project 2:** Servlet Electricity Bill System (Java Servlet - https://github.com/vigneshwaraneem/EBSystem)
+3. **Project 2:** Servlet Electricity Bill System (Java Servlet - https://github.com/vigneshwaraneem/EBSystem)
 The Servlet Electricity Bill System is a web-based application developed using Java Servlets within Eclipse. This system allows users to calculate and manage electricity bills efficiently.
 
-3. **Project 3:** Swing CRUD Application (Java Swing - https://github.com/vigneshwaraneem/Swing-crud)
+4. **Project 3:** Swing CRUD Application (Java Swing - https://github.com/vigneshwaraneem/Swing-crud)
 The Swing CRUD Application is a Java-based desktop application developed using the Swing library within NetBeans. It provides a user-friendly graphical interface for performing basic CRUD (Create, Read, Update, Delete) operations on a dataset.
 
 ## Skills
