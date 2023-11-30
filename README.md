@@ -40,6 +40,6 @@ Connect with me on **LinkedIn** - https://www.linkedin.com/in/vigneshwaraneem
 
 Follow me on **X/Twitter** - https://twitter.com/vigneshwaraneem
 
-get connected in **Discord** https://discord.gg/vigneshwaraneem 
+get connected in **Discord** https://discord.com/invite/TZVGhvts 
 
 Happy coding!
